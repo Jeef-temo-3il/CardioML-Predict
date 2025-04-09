@@ -34,7 +34,7 @@ Ce projet consiste à concevoir un modèle d'apprentissage automatique permettan
 
 1. **Clonez ce dépôt sur votre machine locale**
    ```bash
-   git clone https://github.com/tonpseudo/CardioML-Predict.git
+   git clone https://github.com/Jeef-temo-3il/CardioML-Predict.git
 Installez les dépendances nécessaires Assurez-vous d’avoir Jupyter Notebook installé.
 
 bash
